@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/heyyprakhar" target="blank"><img src="https://img.shields.io/twitter/follow/heyyprakhar?logo=twitter&style=for-the-badge" alt="heyyprakhar" /></a> </p>
 
+
+- 🌱 I’m currently learning **Node js and WEB Dev**
+
+- 💬 Ask me about **nothing 🤥**
+
+- 📫 How to reach me **talk2prakhartripathi@gmail.com**
+
+- ⚡ Fun fact **I am Funny!**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heyyprakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyyprakhar" height="30" width="40" /></a>
