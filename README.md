@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align = “right” alt=“coding” width=“400” src=“![image](https://github.com/heyprakhar/heyprakhar/assets/115215167/1c39838e-abd0-486d-bf37-4a15606149b4)
-”>
-
+<img align = "right" width = "400" src = "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyprakhar&label=Profile%20views&color=0e75b6&style=flat" alt="heyprakhar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/heyyprakhar" target="blank"><img src="https://img.shields.io/twitter/follow/heyyprakhar?logo=twitter&style=for-the-badge" alt="heyyprakhar" /></a> </p>
